@@ -7,9 +7,7 @@
   - **Econometric Analysis of Greece’s Debt Sustainability**: Exploring the long-term sustainability of Greece’s national debt and forecasting key variables 
                                                               round Greek debt.  
 - 🌱 I’m currently learning: Advanced Econometrics, Dynamic Mathematics, and Macroeconomic modelling (but I am open to much more).
-  - 👯 I’m looking to collaborate on:
-  - Research projects related to Macroeconomics, Finance, Economic Development, Labour Economics and Economics of 
-    Technology.
+- 👯 I’m looking to collaborate on research projects related to Macroeconomics, Finance, Economic Development, Labour & Technology Economics.
 - 🤔 I’m looking for help with ...
   - Cutting edge macroeconomic modelling (HANK and TANK models particularly) and application of interdisciplinary methods (like ML) in Economics. 
 - 💬 Ask me about ...
