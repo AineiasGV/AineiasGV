@@ -16,4 +16,4 @@
   - [GitHub](https://github.com/AineiasGV)
   - [LinkedIn](https://linkedin.com/in/aeneas-vafiadakis)
   - [Email](mailto:aineiasva@gmail.com)
-- ⚡ Fun fact: I am a former competitive swimmer and a CrossFit athlete.
+- ⚡ Fun fact: I am a former competitive swimmer and a wannabe runner.
