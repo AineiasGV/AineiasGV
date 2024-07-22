@@ -4,10 +4,10 @@
 
 - I’m currently working on:
   - **The Evolution of Financial Interconnections in the EU:
-     - A Network Analysis Approach of the Banking Sectors.
+     / A Network Analysis Approach of the Banking Sectors.
   - **Econometric Analysis of Greece’s Debt Sustainability**:
-     - Exploring the long-term sustainability of Greece’s national debt
-     - and forecasting key variables around Greek debt.  
+     / Exploring the long-term sustainability of Greece’s national debt
+     / and forecasting key variables around Greek debt.  
 - How to reach me: ...
   - [GitHub](https://github.com/AineiasGV)
   - [LinkedIn](https://linkedin.com/in/aeneas-vafiadakis)
