@@ -3,7 +3,7 @@
 ## Welcome to My GitHub Profile!
 
 - I’m currently working on:
-  - Build sufficient knowledge and intuition behind recent workhorse macroeconomic models, such as **heterogeneous agents models**.
+  - Build sufficient knowledge and intuition behind recent workhorse macroeconomic models, such as **heterogeneous agents models** and **hhs balance sheet**.
   - **The Evolution of EU+ Banking Networks,** Centrality and Systemic Risk: 2006–2022
   - **Econometric Analysis of Greece’s Green Transition**: Structural 
         
