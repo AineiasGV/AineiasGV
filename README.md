@@ -10,4 +10,4 @@
 - How to reach me: ...
   - [GitHub](https://github.com/AineiasGV)
   - [LinkedIn](https://linkedin.com/in/aeneas-vafiadakis)
-  - [Email](mailto:aineiasva@gmail.com)
+  - [Email](mailto:aineias.edu@gmail.com)
