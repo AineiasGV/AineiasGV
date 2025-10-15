@@ -8,7 +8,7 @@
   - **Energy Transition, Competitiveness and Growth:** RVAR Evidence from Greece & Belgium (2025) -- Just submitted this one! Have a look, always in its pre-print version - always happy to receive negative feedback! **DOI: http://dx.doi.org/10.2139/ssrn.5528698**
 
         
-- Where to provide negative feedback: 
+- Where to provide the negative feedback: 
   - [GitHub](https://github.com/AineiasGV)
   - [LinkedIn](https://linkedin.com/in/aeneas-vafiadakis)
   - [Email](mailto:aineias.edu@gmail.com)
